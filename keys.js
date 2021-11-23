@@ -1,3 +1,0 @@
-let mapboxApiKey = 'pk.eyJ1IjoidGhlYmlnZGVhbDkxNiIsImEiOiJja3VkMHh0eTcxNjA2MnVvM3U1ZWtlZDZuIn0.McH26lRmTbAdoc03BCHfuA'
-
-let OPEN_WEATHER_APIID = 'f666dbb2d923949bef84704022f11623'
