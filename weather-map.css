@@ -1,0 +1,83 @@
+#map {
+    /* the width and height may be set to any size */
+    width: 100%;
+    height: 700px;
+  
+  }
+  .mapboxgl-popup {
+    max-width: 200px;
+  }
+  
+  .mapboxgl-popup-content {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: yellow;
+    background-color: green;
+  }
+  
+  h1 {
+    color: #333333;
+  }
+  
+  h3 {
+    background-color: #1B0F1C;
+    opacity: 60%;
+    border-radius: 10px;
+  }
+  
+  h4 {
+    margin-left: 40%;
+    margin-top: 30px;
+  }
+  p {
+    opacity: 80%;
+  }
+  
+  .jumbotron {
+    background-color: #1969B2;
+    margin-bottom: -45px;
+    height: 460px;
+  }
+  
+  .card {
+    display: inline-block;
+    margin-top: 12px;
+    margin-right: 7px;
+    box-shadow: 4px 4px 0 0 rgba(0,0,0,0.5);
+  
+  }
+  
+  #submit {
+    margin-top: 10px;
+    margin-bottom: 3px;
+    margin-left: 45%;
+    box-shadow: 4px 4px 0 0 rgba(0,0,0,0.5);
+  
+  }
+  
+  #input {
+    box-shadow:  4px 4px 0 0  rgba(0,0,0,0.5);
+    margin-top: -15px;
+  }
+  
+  h1 {
+    margin-top: -50px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .content {
+    margin-left: 40px;
+  }
+  
+  footer {
+    background-color: #1969B2;
+    height: 100px;
+    width: 100%;
+    align-items: center;
+    margin-top: 2px;
+    position: fixed;
+    bottom: 0;
+    z-index: 1;
+  }
